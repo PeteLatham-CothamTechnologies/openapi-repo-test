@@ -1,0 +1,7 @@
+specFileName: ../OpenAPIFiles/CothamTechnologies-elKumulos-0.2-swagger.yaml
+apiTitle: ELKUMULOS
+splitSpec: false
+codeSamples: false
+swaggerUI: false
+travis: false
+oasVersion: '2.0'
